@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.carousel-item img {
+  height: 550px;
+  object-fit: cover;
+}
+
+.mau {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.chu {
+  position: relative;
+  margin-right: 300px;
+}
